@@ -1,7 +1,8 @@
-import React, { useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 
 const Timer = () => {
+  
   return (
     <div className="timer">00:03</div>
   )
